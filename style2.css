@@ -16,12 +16,8 @@ body {
     overflow: hidden !important;
   }
   html {
-    overflow: hidden;
+    overflow-y: auto;
   }
-    .scrollable {
-height: 100px; /* or any value */
-overflow-y: auto;
-}
   @import url("https://fonts.googleapis.com/css2?family=Love+Light&display=swap");
   @import url("https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap");
   * {
